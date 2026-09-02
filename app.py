@@ -14,21 +14,21 @@ CATALOGO_PIEZAS = [
     },
     {
         "id": 2,
-        "nombre": "Resistencia",
+        "nombre": "Resistencias, todos los valores",
         "precio": 0.50,
         "stock": 200,
         "imagen": "resistencia.jpg"
     },
     {
         "id": 3,
-        "nombre": "Leds",
+        "nombre": "Leds, 5 colores",
         "precio": 0.50,
         "stock": 200,
         "imagen": "leds.jpg"
     },
     {
         "id": 4,
-        "nombre": "Cable Awg 22",
+        "nombre": "Cable Awg 22 por metro",
         "precio": 5.00,
         "stock": 100,
         "imagen": "cable_awg22.jpg"
