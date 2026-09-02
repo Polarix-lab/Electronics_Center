@@ -23,7 +23,7 @@ CATALOGO_PIEZAS = [
         "id": 3,
         "nombre": "Leds, 5 colores",
         "precio": 0.50,
-        "stock": 200,
+        "stock": 1000,
         "imagen": "leds.jpg"
     },
     {
