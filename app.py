@@ -32,6 +32,7 @@ CATALOGO_PIEZAS = [
         "precio": 5.00,
         "stock": 100,
         "imagen": "cable_awg22.jpg"
+    },
     {
         "id": 5,
         "nombre": "Pila de 9V",
