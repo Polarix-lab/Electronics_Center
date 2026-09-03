@@ -67,6 +67,13 @@ CATALOGO_PIEZAS = [
         "precio": 39.00,
         "stock": 30,
         "imagen": "pila_9v_con_broche.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Boton Pulsador",
+        "precio": 1.00,
+        "stock": 200,
+        "imagen": "boton_pulsador.jpg"
     }
 ]
 
