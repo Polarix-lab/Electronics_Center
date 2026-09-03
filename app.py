@@ -32,6 +32,40 @@ CATALOGO_PIEZAS = [
         "precio": 5.00,
         "stock": 100,
         "imagen": "cable_awg22.jpg"
+    {
+        "id": 5,
+        "nombre": "Pila de 9V",
+        "precio": 35.00,
+        "stock": 30,
+        "imagen": "pila_9v.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Broche para pila de 9V",
+        "precio": 5.00,
+        "stock": 100,
+        "imagen": "broche.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Jumpers 20cm, M-M H-H M-H",
+        "precio": 0.50,
+        "stock": 360,
+        "imagen": "jumpers.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Servo motor sg90",
+        "precio": 30.00,
+        "stock": 0,
+        "imagen": "servomotor_sg90.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Combo de Pila 9V y Broche",
+        "precio": 39.00,
+        "stock": 30,
+        "imagen": "pila_9v_con_broche.jpg"
     }
 ]
 
