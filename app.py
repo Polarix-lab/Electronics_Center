@@ -49,7 +49,7 @@ CATALOGO_PIEZAS = [
     },
     {
         "id": 7,
-        "nombre": "Jumpers 20cm, M-M H-H M-H",
+        "nombre": "Jumpers 10cm 20cm 40cm, M-M H-H M-H",
         "precio": 0.50,
         "stock": 360,
         "imagen": "jumpers.jpg"
@@ -74,6 +74,13 @@ CATALOGO_PIEZAS = [
         "precio": 1.00,
         "stock": 200,
         "imagen": "boton_pulsador.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Arduino Uno",
+        "precio": 100.00,
+        "stock": 0,
+        "imagen": "arduino_uno.r3.jpg"
     }
 ]
 
