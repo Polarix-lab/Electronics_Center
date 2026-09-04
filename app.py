@@ -80,7 +80,7 @@ CATALOGO_PIEZAS = [
         "nombre": "Arduino Uno",
         "precio": 100.00,
         "stock": 0,
-        "imagen": "arduino_uno.r3.jpg"
+        "imagen": "arduino_uno_r3.jpg"
     }
 ]
 
