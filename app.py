@@ -35,7 +35,7 @@ CATALOGO_PIEZAS = [
     },
     {
         "id": 5,
-        "nombre": "Jumpers 10cm 20cm 40cm, M-M H-H M-H",
+        "nombre": "Jumpers 10cm,20cm,40cm,M-M H-H M-H",
         "precio": 0.50,
         "stock": 360,
         "imagen": "jumpers.jpg"
