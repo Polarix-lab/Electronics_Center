@@ -21,10 +21,10 @@ CATALOGO_PIEZAS = [
     },
     {
         "id": 3,
-        "nombre": "Leds, 5 colores",
-        "precio": 0.50,
-        "stock": 1000,
-        "imagen": "leds.jpg"
+        "nombre": "Arduino Uno",
+        "precio": 100.00,
+        "stock": 0,
+        "imagen": "arduino_uno_r3.jpg"
     },
     {
         "id": 4,
@@ -35,10 +35,10 @@ CATALOGO_PIEZAS = [
     },
     {
         "id": 5,
-        "nombre": "Pila de 9V",
-        "precio": 35.00,
-        "stock": 30,
-        "imagen": "pila_9v.jpg"
+        "nombre": "Jumpers 10cm 20cm 40cm, M-M H-H M-H",
+        "precio": 0.50,
+        "stock": 360,
+        "imagen": "jumpers.jpg"
     },
     {
         "id": 6,
@@ -49,24 +49,24 @@ CATALOGO_PIEZAS = [
     },
     {
         "id": 7,
-        "nombre": "Jumpers 10cm 20cm 40cm, M-M H-H M-H",
-        "precio": 0.50,
-        "stock": 360,
-        "imagen": "jumpers.jpg"
+        "nombre": "Pila de 9V",
+        "precio": 35.00,
+        "stock": 30,
+        "imagen": "pila_9v.jpg"
     },
     {
         "id": 8,
-        "nombre": "Servo motor sg90",
-        "precio": 30.00,
-        "stock": 0,
-        "imagen": "servomotor_sg90.jpg"
-    },
-    {
-        "id": 9,
         "nombre": "Combo de Pila 9V y Broche",
         "precio": 39.00,
         "stock": 30,
         "imagen": "pila_9v_con_broche.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Servo motor sg90",
+        "precio": 30.00,
+        "stock": 0,
+        "imagen": "servomotor_sg90.jpg"
     },
     {
         "id": 10,
@@ -77,10 +77,10 @@ CATALOGO_PIEZAS = [
     },
     {
         "id": 11,
-        "nombre": "Arduino Uno",
-        "precio": 100.00,
-        "stock": 0,
-        "imagen": "arduino_uno_r3.jpg"
+        "nombre": "Leds, 5 colores",
+        "precio": 0.50,
+        "stock": 1000,
+        "imagen": "leds.jpg"
     }
 ]
 
