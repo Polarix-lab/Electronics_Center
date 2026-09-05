@@ -14,7 +14,7 @@ CATALOGO_PIEZAS = [
     },
     {
         "id": 2,
-        "nombre": "Resistencias, todos los valores",
+        "nombre": "Resistencias<br>Todos los valores",
         "precio": 0.50,
         "stock": 200,
         "imagen": "resistencia.jpg"
@@ -28,7 +28,7 @@ CATALOGO_PIEZAS = [
     },
     {
         "id": 4,
-        "nombre": "Cable Awg 22 por metro",
+        "nombre": "Cable Awg 22<br>Por metro",
         "precio": 5.00,
         "stock": 100,
         "imagen": "cable_awg22.jpg"
@@ -77,7 +77,7 @@ CATALOGO_PIEZAS = [
     },
     {
         "id": 11,
-        "nombre": "Leds, 5 colores",
+        "nombre": "Leds<br>5 Colores",
         "precio": 0.50,
         "stock": 1000,
         "imagen": "leds.jpg"
