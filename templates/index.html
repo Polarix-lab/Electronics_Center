@@ -29,7 +29,7 @@
                     <img src="{{ url_for('static', filename=pieza.imagen) }}" class="card-img-top p-3" alt="{{ pieza.nombre }}" style="height: 200px; object-fit: contain;">
                     
                     <div class="card-body d-flex flex-column">
-                        <h5 class="card-title fw-bold">{{ pieza.nombre }}</h5>
+                        <h5 class="card-title fw-bold">{{ pieza.nombre | safe }}</h5>
                         <p class="text-success fw-bold fs-5 mb-2">$ {{ "%.2f"|format(pieza.precio) }} MXN</p>
                         
                         <p class="card-text mb-4">
