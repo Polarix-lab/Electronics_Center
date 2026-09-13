@@ -81,7 +81,15 @@ CATALOGO_PIEZAS = [
         "precio": 0.50,
         "stock": 1000,
         "imagen": "leds.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Buzzer activo",
+        "precio": 20.00,
+        "stock": 10,
+        "imagen": "buzzer.jpg"
     }
+    
 ]
 
 @app.route('/')
