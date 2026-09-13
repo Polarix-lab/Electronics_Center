@@ -26,25 +26,25 @@
             </div>
         </div>
 
-        <div class="row row-cols-1 row-cols-md-3 g-4">
+        <div class="row row-cols-2 row-cols-md-3 g-2 g-md-4">
             {% for pieza in piezas %}
             <div class="col">
                 <div class="card h-100 shadow-sm border-0">
-                    <img src="{{ url_for('static', filename=pieza.imagen) }}" class="card-img-top p-3" alt="{{ pieza.nombre }}" style="height: 200px; object-fit: contain;">
+                    <img src="{{ url_for('static', filename=pieza.imagen) }}" class="card-img-top p-2" alt="{{ pieza.nombre }}" style="height: 120px; object-fit: contain;">
                     
-                    <div class="card-body d-flex flex-column">
-                        <h5 class="card-title fw-bold">{{ pieza.nombre | safe }}</h5>
-                        <p class="text-success fw-bold fs-5 mb-2">$ {{ "%.2f"|format(pieza.precio) }} MXN</p>
+                    <div class="card-body d-flex flex-column p-2 p-md-3">
+                        <h6 class="card-title fw-bold fs-6">{{ pieza.nombre | safe }}</h6>
+                        <p class="text-success fw-bold fs-6 mb-1">$ {{ "%.2f"|format(pieza.precio) }} MXN</p>
                         
-                        <p class="card-text mb-4">
+                        <p class="card-text mb-2">
                             {% if pieza.stock > 0 %}
-                                <span class="badge bg-success">Disponibles: {{ pieza.stock }} unidades</span>
+                                <span class="badge bg-success" style="font-size: 0.7rem;">Stock: {{ pieza.stock }}</span>
                             {% else %}
-                                <span class="badge bg-danger">Agotado</span>
+                                <span class="badge bg-danger" style="font-size: 0.7rem;">Agotado</span>
                             {% endif %}
                         </p>
 
-                        <a href="https://wa.me/5212221190658?text=Hola,%20me%20interesa%20comprar%20el%20producto:%20{{ pieza.nombre | replace('<br>', ' ') }}" target="_blank" class="mt-auto btn btn-outline-dark w-100">
+                        <a href="https://wa.me/5212221190658?text=Hola,%20me%20interesa%20comprar%20el%20producto:%20{{ pieza.nombre | replace('<br>', ' ') }}" target="_blank" class="mt-auto btn btn-outline-dark btn-sm w-100">
                             Pedir por WhatsApp
                         </a>
                     </div>
@@ -52,7 +52,6 @@
             </div>
             {% endfor %}
         </div>
-    </div>
 
     <footer class="text-center py-4 text-muted border-top mt-5">
         <div class="container">
