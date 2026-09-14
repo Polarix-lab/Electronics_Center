@@ -88,6 +88,13 @@ CATALOGO_PIEZAS = [
         "precio": 20.00,
         "stock": 10,
         "imagen": "buzzer.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Capacitores Ceramicos<br>Todos los Valores",
+        "precio": 3.00,
+        "stock": 1000,
+        "imagen": "capacitores_ceramicos.jpg"
     }
     
 ]
