@@ -116,6 +116,48 @@ CATALOGO_PIEZAS = [
         "precio": 10.00,
         "stock": 10,
         "imagen": "compuertas_logicas.jpg"
+    },
+    {
+        "id": 17,
+        "nombre": "Potenciómetros<br>Todos los Valores",
+        "precio": 8.00,
+        "stock": 30,
+        "imagen": "potenciometro.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "Puentes H L298n",
+        "precio": 60.00,
+        "stock": 10,
+        "imagen": "puenteH_L298n.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "Sensor de Fuerza",
+        "precio": 150.00,
+        "stock": 5,
+        "imagen": "sensor_de_fuerza.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "Diodos Rectificadores<br>Todos los valores",
+        "precio": 2.00,
+        "stock": 200,
+        "imagen": "diodo_rectificador.jpg"
+    },
+    {
+        "id": 21,
+        "nombre": "Transistores<br>Todos los valores",
+        "precio": 4.00,
+        "stock": 100,
+        "imagen": "transistores.jpg"
+    },
+    {
+        "id": 22,
+        "nombre": "Display de 7 Segmentos",
+        "precio": 8.00,
+        "stock": 50,
+        "imagen": "display_7_segmentos.jpg"
     }
     
 ]
