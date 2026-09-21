@@ -65,7 +65,7 @@ CATALOGO_PIEZAS = [
         "id": 9,
         "nombre": "Servo motor sg90",
         "precio": 30.00,
-        "stock": 0,
+        "stock": 25,
         "imagen": "servomotor_sg90.jpg"
     },
     {
@@ -95,6 +95,27 @@ CATALOGO_PIEZAS = [
         "precio": 3.00,
         "stock": 1000,
         "imagen": "capacitores_ceramicos.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Par de Cables Caimán-Caimán",
+        "precio": 10.00,
+        "stock": 50,
+        "imagen": "cables_caiman.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Capacitores Electrolíticos<br>Todos los Valores",
+        "precio": 3.00,
+        "stock": 100,
+        "imagen": "capacitores_electroliticos.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "Compuertas lógicas<br>Todos los Valores",
+        "precio": 10.00,
+        "stock": 10,
+        "imagen": "compuertas_logicas.jpg"
     }
     
 ]
