@@ -24,7 +24,7 @@ CATALOGO_PIEZAS = [
         "nombre": "Arduino Uno con cable",
         "precio": 119.00,
         "stock": 10,
-        "imagen": "arduino_uno_con cable.jpg"
+        "imagen": "arduino_uno_cable.jpg"
     },
     {
         "id": 4,
