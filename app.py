@@ -165,7 +165,7 @@ CATALOGO_PIEZAS = [
         "precio": 99.00,
         "stock": 10,
         "imagen": "arduino_uno_r3.jpg"
-    }
+    },
     {
         "id": 24,
         "nombre": "Cable para arduino",
