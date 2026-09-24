@@ -21,10 +21,10 @@ CATALOGO_PIEZAS = [
     },
     {
         "id": 3,
-        "nombre": "Arduino Uno",
-        "precio": 100.00,
-        "stock": 0,
-        "imagen": "arduino_uno_r3.jpg"
+        "nombre": "Arduino Uno con cable",
+        "precio": 119.00,
+        "stock": 10,
+        "imagen": "arduino_uno_con cable.jpg"
     },
     {
         "id": 4,
@@ -158,6 +158,20 @@ CATALOGO_PIEZAS = [
         "precio": 8.00,
         "stock": 50,
         "imagen": "display_7_segmentos.jpg"
+    },
+    {
+        "id": 23,
+        "nombre": "Arduino Uno R3<br>Sin Cable",
+        "precio": 99.00,
+        "stock": 10,
+        "imagen": "arduino_uno_r3.jpg"
+    }
+    {
+        "id": 24,
+        "nombre": "Cable para arduino",
+        "precio": 25.00,
+        "stock": 10,
+        "imagen": "cable_arduino.jpg"
     }
     
 ]
