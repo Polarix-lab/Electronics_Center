@@ -172,6 +172,13 @@ CATALOGO_PIEZAS = [
         "precio": 25.00,
         "stock": 10,
         "imagen": "cable_arduino.jpg"
+    },
+    {
+        "id": 25,
+        "nombre": "Sensor de temperatura Lm35",
+        "precio": 50.00,
+        "stock": 10,
+        "imagen": "cable_arduino.jpg"
     }
     
 ]
