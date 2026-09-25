@@ -178,7 +178,7 @@ CATALOGO_PIEZAS = [
         "nombre": "Sensor de temperatura Lm35",
         "precio": 50.00,
         "stock": 10,
-        "imagen": "cable_arduino.jpg"
+        "imagen": "sensor_Lm35.jpg"
     }
     
 ]
