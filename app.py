@@ -119,8 +119,8 @@ CATALOGO_PIEZAS = [
     },
     {
         "id": 17,
-        "nombre": "Potenciómetros<br>Todos los Valores",
-        "precio": 8.00,
+        "nombre": "Potenciómetros con perilla<br>Todos los Valores",
+        "precio": 10.00,
         "stock": 30,
         "imagen": "potenciometro.jpg"
     },
