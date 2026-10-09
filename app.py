@@ -199,7 +199,7 @@ CATALOGO_PIEZAS = [
         "nombre": "Multímetro Didital<br>Marca Truper",
         "precio": 220.00,
         "stock": 10,
-        "imagen": "Multimetro_Digital_Trupoer.jpg"
+        "imagen": "Multimetro_Digital_Truper.jpg"
     }
     
 ]
