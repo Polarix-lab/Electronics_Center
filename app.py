@@ -186,7 +186,7 @@ CATALOGO_PIEZAS = [
         "precio": 30.00,
         "stock": 10,
         "imagen": "Amplificador_Tl084cn.jpg"
-    }
+    },
     {
         "id": 27,
         "nombre": "Amplificador Lm324n",
