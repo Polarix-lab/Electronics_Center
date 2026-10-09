@@ -176,9 +176,30 @@ CATALOGO_PIEZAS = [
     {
         "id": 25,
         "nombre": "Sensor de temperatura Lm35",
-        "precio": 50.00,
+        "precio": 20.00,
         "stock": 10,
         "imagen": "sensor_Lm35.jpg"
+    },
+    {
+        "id": 26,
+        "nombre": "Amplificador Tl084cn",
+        "precio": 30.00,
+        "stock": 10,
+        "imagen": "Amplificador_Tl084cn.jpg"
+    }
+    {
+        "id": 27,
+        "nombre": "Amplificador Lm324n",
+        "precio": 20.00,
+        "stock": 10,
+        "imagen": "Amplificador_Lm324.jpg"
+    },
+    {
+        "id": 28,
+        "nombre": "Multímetro Didital<br>Marca Truper",
+        "precio": 220.00,
+        "stock": 10,
+        "imagen": "Multimetro_Digital_Trupoer.jpg"
     }
     
 ]
