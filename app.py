@@ -200,6 +200,34 @@ CATALOGO_PIEZAS = [
         "precio": 220.00,
         "stock": 10,
         "imagen": "Multimetro_Digital_Truper.jpg"
+    },
+    {
+        "id": 29,
+        "nombre": "Protoboard 400 Puntos",
+        "precio": 30.00,
+        "stock": 10,
+        "imagen": "Protoboard400.jpg"
+    },
+    {
+        "id": 30,
+        "nombre": "Reguladores De Voltaje<br>Varios Valores",
+        "precio": 15.00,
+        "stock": 10,
+        "imagen": "Regulador_Voltaje.jpg"
+    },
+    {
+        "id": 31,
+        "nombre": "Amplificador 741",
+        "precio": 220.00,
+        "stock": 10,
+        "imagen": "Amplificador_741.jpg"
+    },
+    {
+        "id": 32,
+        "nombre": "Diodo Zener 1n4733a",
+        "precio": 220.00,
+        "stock": 10,
+        "imagen": "Dido_Zener_1n4733a.jpg"
     }
     
 ]
