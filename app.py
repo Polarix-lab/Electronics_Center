@@ -218,14 +218,14 @@ CATALOGO_PIEZAS = [
     {
         "id": 31,
         "nombre": "Amplificador 741",
-        "precio": 220.00,
+        "precio": 10.00,
         "stock": 10,
         "imagen": "Amplificador_741.jpg"
     },
     {
         "id": 32,
         "nombre": "Diodo Zener 1n4733a",
-        "precio": 220.00,
+        "precio": 4.00,
         "stock": 10,
         "imagen": "Diodo_Zener_1n4733a.jpg"
     }
