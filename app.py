@@ -196,7 +196,7 @@ CATALOGO_PIEZAS = [
     },
     {
         "id": 28,
-        "nombre": "Multímetro Didital<br>Marca Truper",
+        "nombre": "Multímetro Digital<br>Marca Truper",
         "precio": 220.00,
         "stock": 10,
         "imagen": "Multimetro_Digital_Truper.jpg"
