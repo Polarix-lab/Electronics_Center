@@ -228,6 +228,13 @@ CATALOGO_PIEZAS = [
         "precio": 4.00,
         "stock": 10,
         "imagen": "Diodo_Zener_1n4733a.jpg"
+    },
+    {
+        "id": 33,
+        "nombre": "Arduino Nano Con Cable",
+        "precio": 120.00,
+        "stock": 10,
+        "imagen": "Arduino_Nano.jpg"
     }
     
 ]
