@@ -232,7 +232,7 @@ CATALOGO_PIEZAS = [
     {
         "id": 33,
         "nombre": "Arduino Nano Con Cable",
-        "precio": 120.00,
+        "precio": 100.00,
         "stock": 10,
         "imagen": "Arduino_Nano.jpg"
     }
