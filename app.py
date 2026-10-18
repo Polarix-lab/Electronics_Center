@@ -92,7 +92,7 @@ CATALOGO_PIEZAS = [
     {
         "id": 13,
         "nombre": "Capacitores Ceramicos<br>Todos los Valores",
-        "precio": 3.00,
+        "precio": 2.00,
         "stock": 1000,
         "imagen": "capacitores_ceramicos.jpg"
     },
@@ -235,7 +235,43 @@ CATALOGO_PIEZAS = [
         "precio": 100.00,
         "stock": 10,
         "imagen": "Arduino_Nano.jpg"
+    },
+    {
+        "id": 34,
+        "nombre": "Sensor de Pulso cardíaco xd58c",
+        "precio": 150.00,
+        "stock": 10,
+        "imagen": "Sensor_Xd58c.jpg"
+    },
+    {
+        "id": 35,
+        "nombre": "Termopar Tipo K",
+        "precio": 80.00,
+        "stock": 10,
+        "imagen": "Termopar_K.jpg"
+    },
+    {
+        "id": 36,
+        "nombre": "Motor DC 5v",
+        "precio": 20.00,
+        "stock": 10,
+        "imagen": "Motor_DC_5V.jpg"
+    },
+    {
+        "id": 37,
+        "nombre": "Terminal Block 2 Pines",
+        "precio": 12.00,
+        "stock": 10,
+        "imagen": "Terminal_Block_2.jpg"
+    },
+    {
+        "id": 38,
+        "nombre": "Relevador 5V",
+        "precio": 12.00,
+        "stock": 10,
+        "imagen": "Relevador_5V.jpg"
     }
+
     
 ]
 
