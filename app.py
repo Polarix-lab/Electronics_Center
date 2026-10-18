@@ -267,7 +267,7 @@ CATALOGO_PIEZAS = [
     {
         "id": 38,
         "nombre": "Relevador 5V",
-        "precio": 12.00,
+        "precio": 30.00,
         "stock": 10,
         "imagen": "Relevador_5V.jpg"
     }
